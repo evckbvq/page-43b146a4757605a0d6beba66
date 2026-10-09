@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "816e277b19167888b9e414fd",
+  "owner": "evckbvq",
+  "repo": "page-43b146a4757605a0d6beba66",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "43b146a4757605a0d6beba66",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "83863f23d1c41ab73068e685ec64902864239f96cd4e16b205dde1ff93a661c1",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买提供专业的VPN梯子网络加速服务，多种套餐包括基础版、旗舰版、团队版。支持高速流量解锁流媒体，立即访问官网下载客户端体验优质加速。",
+          "AI_DESCRIPTION": "TG号购买提供专业的VPN梯子网络加速服务，多种套餐包括基础版、旗舰版、团队版。支持高速流量解锁流媒体，立即访问官网下载客户端体验优质加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #6b46c1;\n            --gray: #f8f9fa;\n            --text: #333333;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--gray);\n            color: var(--text);\n            line-height: 1.7;\n            font-size: 16px;\n        }\n        .container { max-width:1200px; margin:0 auto; padding:20px; }\n        header {\n            background:#fff;\n            padding:1rem 0;\n            box-shadow:0 2px 8px rgba(0,0,0,0.08);\n        }\n        nav { display:flex; justify-content:space-between; align-items:center; }\n        h1 { color:var(--primary); font-size:2.8rem; }\n        .section {\n            padding:3rem 0;\n            border-bottom:1px solid #e5e7eb;\n        }\n        .section:last-child { border-bottom:none; }\n        h2 { font-size:1.8rem; color:var(--primary); margin-bottom:1.5rem; }\n        .intro p, .scenarios ul, .download p { font-size:1.05rem; margin-bottom:1.2rem; }\n        .steps {\n            display:flex;\n            flex-direction:column;\n            gap:2.5rem;\n        }\n        .step {\n            display:flex;\n            gap:1.8rem;\n            align-items:flex-start;\n        }\n        .step-number {\n            width:56px;\n            height:56px;\n            background:var(--primary);\n            color:#fff;\n            border-radius:50%;\n            display:flex;\n            align-items:center;\n            justify-content:center;\n            font-size:1.4rem;\n            font-weight:700;\n            flex-shrink:0;\n        }\n        .plans-grid {\n            display:grid;\n            grid-template-columns:repeat(auto-fit, minmax(320px,1fr));\n            gap:2rem;\n        }\n        .card {\n            background:#fff;\n            border:2px solid #e5e7eb;\n            border-radius:12px;\n            padding:2rem;\n            transition:all .3s ease;\n        }\n        .card:hover {\n            transform:scale(1.03);\n            box-shadow:0 10px 15px -3px rgb(0 0 0 / 0.1);\n        }\n        .card.featured {\n            border-color:var(--primary);\n            position:relative;\n        }\n        .card.featured::after {\n            content:'';\n            position:absolute;\n            top:12px;\n            right:12px;\n            background:var(--primary);\n            color:#fff;\n            padding:4px 12px;\n            border-radius:9999px;\n            font-size:0.85rem;\n            font-weight:600;\n        }\n        .price {\n            font-size:2.1rem;\n            font-weight:700;\n            color:var(--primary);\n            margin:1rem 0;\n        }\n        .annual {\n            color:#64748b;\n            font-size:1rem;\n        }\n        ul {\n            margin:1.5rem 0;\n        }\n        li {\n            padding:0.5rem 0;\n            list-style:none;\n        }\n        .faq {\n            max-width:780px;\n        }\n        details {\n            margin-bottom:1.2rem;\n            border:1px solid #e5e7eb;\n            border-radius:10px;\n            overflow:hidden;\n        }\n        summary {\n            padding:1.1rem 1.5rem;\n            background:#f1f5f9;\n            font-weight:600;\n            cursor:pointer;\n            list-style:none;\n        }\n        summary:hover { background:#e2e8f0; }\n        a {\n            color:var(--primary);\n            text-decoration:none;\n        }\n        a:hover { text-decoration:underline; }\n        footer {\n            background:#1f2937;\n            color:#cbd5e1;\n            padding:2rem 0;\n            text-align:center;\n        }\n        @media (max-width:768px) {\n            h1 { font-size:2.2rem; }\n            .section { padding:2.5rem 0; }\n            .plans-grid { grid-template-columns:1fr; }\n        }\n    </style>\n\n\n    <header>\n        <div class=\"container\">\n            <nav>\n                <h1>TG号购买</h1>\n                <div>\n                    <a href=\"#config\">配置流程</a> |\n                    <a href=\"#plans\">套餐</a> |\n                    <a href=\"#faq\">FAQ</a>\n                </div>\n            </nav>\n        </div>\n    </header>\n    <main>\n        <section class=\"intro section\">\n            <h2>品牌简介</h2>\n            <p>TG号购买是专业VPN梯子网络加速平台，专注于为用户提供稳定高速的网络加速解决方案。通过订阅多种套餐，您可轻松解锁各类流媒体平台，享受流畅在线体验。无论个人使用还是团队协作，我们均能为您带来优质的服务支持。</p>\n        </section>\n        <section class=\"use-scenarios section\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>家庭多人在线观看流媒体与短视频</li>\n                <li>游戏玩家追求低延迟IPLC专线加速</li>\n                <li>企业远程办公与多人协作</li>\n                <li>海外用户访问被屏蔽内容</li>\n            </ul>\n        </section>\n        <section class=\"config-process section\" id=\"config\">\n            <h2>配置流程</h2>\n            <div class=\"steps\">\n                <div class=\"step\">\n                    <div class=\"step-number\">1</div>\n                    <div>\n                        <h3>选择适合您的套餐</h3>\n                        <p>根据需求挑选基础版、旗舰版或团队版，匹配您的流量与设备需求。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">2</div>\n                    <div>\n                        <h3>完成支付</h3>\n                        <p>支持多种支付方式，快速完成订阅流程。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">3</div>\n                    <div>\n                        <h3>激活账号</h3>\n                        <p>支付成功后立即获取激活信息。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">4</div>\n                    <div>\n                        <h3>下载客户端</h3>\n                        <p>访问官网下载官方客户端。</p>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">5</div>\n                    <div>\n                        <h3>连接节点</h3>\n                        <p>选择任意节点开始享受高速加速。</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <section class=\"plans section\" id=\"plans\">\n            <h2>我们的套餐</h2>\n            <div class=\"plans-grid\">\n                <div class=\"card\">\n                    <h3>基础版</h3>\n                    <p class=\"price\">¥15/月</p>\n                    <p class=\"annual\">按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"card featured\">\n                    <h3>旗舰版 <span>推荐</span></h3>\n                    <p class=\"price\">¥35/月</p>\n                    <p class=\"annual\">按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"card\">\n                    <h3>团队版</h3>\n                    <p class=\"price\">¥85/月</p>\n                    <p class=\"annual\">按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section class=\"faq section\" id=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>什么是 TG号购买？</summary>\n                    <div>TG号购买是专业的VPN梯子网络加速平台，提供稳定高速的网络加速解决方案，帮助用户解锁流媒体与提升上网体验。</div>\n                </details>\n                <details>\n                    <summary>如何选择适合我的套餐？</summary>\n                    <div>基础版适合个人轻度使用，旗舰版适合需要解锁流媒体与游戏加速的用户，团队版适合企业大型团队使用。</div>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <div>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台设备同时在线。</div>\n                </details>\n                <details>\n                    <summary>能解锁哪些流媒体平台？</summary>\n                    <div>旗舰版及以上支持全节点原生流媒体解锁，包括Netflix、YouTube、Bilibili等热门平台。</div>\n                </details>\n                <details>\n                    <summary>如何获得客服支持？</summary>\n                    <div>旗舰版及以上用户可享受7x24优先工单支持，团队版提供专属客户经理服务。</div>\n                </details>\n            </div>\n        </section>\n        <section class=\"download section\">\n            <h2>客户端下载</h2>\n            <p>访问官网下载官方客户端，立即开始您的VPN加速之旅。</p>\n            <a href=\"#\">立即下载客户端</a>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <div class=\"container\">\n            <p>© 2024 TG号购买 官网. 保留所有权利.</p>\n            <div>\n                友情链接：<a href=\"#\">合作伙伴1</a> | <a href=\"#\">合作伙伴2</a>\n            </div>\n        </div>\n    </footer>\n\n",
+          "hash": "e09109aba7eb9f307065d982de4db462b1287cfa690408a0dfb5af30513b1c8e",
+          "seo": {
+            "title": "TG号购买 VPN加速器 - 客户端下载 官网",
+            "keywords": "TG号购买, VPN加速器, 机场订阅, 客户端下载, 官网, VPN梯子, 网络加速, 流量套餐",
+            "description": "TG号购买提供专业的VPN梯子网络加速服务，多种套餐包括基础版、旗舰版、团队版。支持高速流量解锁流媒体，立即访问官网下载客户端体验优质加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iupocwe.cn",
+    "host": "p-f26dc86853.iupocwe.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "fc0b044c19399690485bb6d8c9ba567598f76406770809af174abc2552422972",
+    "sitemap.xml": "9aa540f009478225d49c5a394419ca9fef282cb8422759b70830512e7b417d62",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a869f7085752eda33a5fc5c00c8a1641a26a5f81513470d5a12a516d3039270a",
+    "robots.txt": "11d5e5bfbe2fcd6aac60278eb94e7ab5f54f9ed5bbad412396c8d9915be7b011",
+    "cb8514f9c44c6811aa6d115014624832.txt": "13614e25e0049851014f1eb1eb168eb1a6fc44258137a3d4ceab96f382d856d2"
+  },
+  "revision": "7c29b1929695068546ef862e1b8f4440f132298b9a1e41541f243101705f9c82"
+}
